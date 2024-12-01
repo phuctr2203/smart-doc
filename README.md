@@ -2,7 +2,7 @@
 Smart Documents AI service
 
 
-# Flask Clean Architecture Backend
+## Flask Clean Architecture Backend
 
 This repository contains a Python Flask backend application structured using **Clean Architecture** principles. This architecture ensures separation of concerns, scalability, and maintainability.
 
